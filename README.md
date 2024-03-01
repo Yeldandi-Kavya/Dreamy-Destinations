@@ -21,9 +21,9 @@ Sells and coordinates transportation, accommodations, insurance, tours and activ
 6.Azure Role Based access Control(RBAC)
 
 # Problem Statement:
-Create an efficient e-commerce solution for "Electro" focusing on user-friendly navigation, inventory management, and showcasing affordable prices and enticing offers on a diverse range of electronic gadgets, including smartwatches, smartphones, laptops, and tablets.
+Travelers expect personalized experiences, seamless booking processes, and 24/7 customer support, posing challenges for travel agencies to meet these evolving demands while maintaining profitability.
+Global events such as pandemics, natural disasters, political instability, and economic downturns can disrupt travel patterns, leading to cancellations, rebooking, and financial losses for travel agencies.
 Project Description:
-
 # Project Details
 1. Project Demo URL: https://electrostorage2.z13.web.core.windows.net/
 2. Demo Video URL: https://youtu.be/8ErNjxboKGo

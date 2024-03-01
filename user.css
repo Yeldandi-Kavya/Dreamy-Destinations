@@ -1,0 +1,57 @@
+body{
+    /* background-image:url(images.jpg);*/
+      background-color: orange;
+      
+ }
+ .ContactUs{
+    
+     height:550px;
+     width:500px;
+     padding-left:55px;
+     margin-left: 400px;
+     margin-right: 100px;
+     margin-top: 90px;
+     
+      
+ 
+ }
+
+ .name{
+    display: flex;
+ }
+ .fname input{
+    width:220px;
+     height:40px;
+    display: flex;
+    flex-direction: column;
+ }
+ .lname input
+ {width:220px;
+    height:40px;
+    margin-left:10px;
+    display: flex;
+    flex-direction: column;
+ }
+ #name{
+     color:white;
+     font-size: 23px;
+ }
+ input{
+     width:455px;
+     height:40px;
+ }
+ .msg{
+    width:455px;
+     height:80px;
+ }
+input:hover{
+    border:none;
+    border-bottom: 1px solid black;
+}
+#submit{
+    height:40px;
+    width:150px;
+    border-radius: 15px;
+    color:orange;
+    font-size:20px;
+}

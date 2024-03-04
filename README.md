@@ -10,7 +10,7 @@ Sells and coordinates transportation, accommodations, insurance, tours and activ
 1.Y.kavya (project management) :Manages the web development project.<br>
 2.B.Prashanth (Deployment) :Deployment and maintenance of project infrastructure.<br>
 3.K.Sindhuja  (Documentation) :Responsible for managing the documentation process.<br>
-4.P.Rajani
+4.P.Rajani<br>
 
 # Azure services used:
 1. Azure blob storage

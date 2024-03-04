@@ -19,30 +19,6 @@ Sells and coordinates transportation, accommodations, insurance, tours and activ
 4. Azure AI services
 5. chatbot
 6.Azure Role Based access Control(RBAC)
-
-# Problem Statement:
-Travelers expect personalized experiences, seamless booking processes, and 24/7 customer support, posing challenges for travel agencies to meet these evolving demands while maintaining profitability.
-Global events such as pandemics, natural disasters, political instability, and economic downturns can disrupt travel patterns, leading to cancellations, rebooking, and financial losses for travel agencies.
-Project Description:
-# Project Details
-1. Project Demo URL: https://electrostorage2.z13.web.core.windows.net/
-2. Demo Video URL: https://youtu.be/8ErNjxboKGo
-3. GitHub Repository URL: https://github.com/manojbachu/electro.git
-4. Industry : E-commerce
-
-# Roles and responsibilities
-1.Manoj Bachu (project management) :Manages the web development project.
-2.Vatsavayi T Subrahmanya Varma (Deployment) :Deployment and maintenance of project infrastructure.
-3.Gaddikoppula Sandeep Naidu (Documentation) :Responsible for managing the documentation process.
-
-# Azure services used:
-1. Azure blob storage
-2. Storage account
-3. Azure Backup service
-4. Azure AI services
-5. chatbot
-6.Azure Role Based access Control(RBAC)
-
 # Problem Statement:
 Travelers expect personalized experiences, seamless booking processes, and 24/7 customer support, posing challenges for travel agencies to meet these evolving demands while maintaining profitability.
 Global events such as pandemics, natural disasters, political instability, and economic downturns can disrupt travel patterns, leading to cancellations, rebooking, and financial losses for travel agencies.

@@ -6,7 +6,7 @@ Sells and coordinates transportation, accommodations, insurance, tours and activ
 3. GitHub Repository URL: https://github.com/manojbachu/electro.git
 4. Industry : E-commerce
 
-#Roles and responsibilities
+# Roles and responsibilities
 1.Y.kavya (project management) :Manages the web development project.<br>
 2.B.Prashanth (Deployment) :Deployment and maintenance of project infrastructure.<br>
 3.K.Sindhuja  (Documentation) :Responsible for managing the documentation process.<br>

@@ -41,3 +41,5 @@ Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage s
 ![backup for blobs](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/0edee078-a3d6-4d94-b37a-762b08295560)
 # Azure Bot
 ![azure bot](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/0f69752a-0a6e-437c-8df5-2839101248fe)
+# Backup Policy
+![backup policy](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/fcf4fe11-a5df-499a-87eb-2c7e9f03bba6)

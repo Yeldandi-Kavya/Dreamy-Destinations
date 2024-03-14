@@ -23,8 +23,7 @@ Sells and coordinates transportation, accommodations, insurance, tours and activ
 # Problem Statement:
 Travelers expect personalized experiences, seamless booking processes, and 24/7 customer support, posing challenges for travel agencies to meet these evolving demands while maintaining profitability.
 Global events such as pandemics, natural disasters, political instability, and economic downturns can disrupt travel patterns, leading to cancellations, rebooking, and financial losses for travel agencies.
-		Opportunity: Customer Expectations: Travelers expect personalized experiences, seamless booking processes, and 24/7 customer support, posing challenges for travel agencies to meet these evolving demands while maintaining profitability.
-Uncertain Environment: Global events such as pandemics, natural disasters, political instability, and economic downturns can disrupt travel patterns, leading to cancellations, rebooking, and financial losses for travel agencies.
+		
 
 # Project Description:
 A company that specializes in offering services associated with travel and tourism is known as a travel agency. Its main purpose is to help people—individuals, groups, and organizations—plan, reserve, and oversee travel excursions, vacations, or other activities. This is a detailed list of the services that a travel agency normally provides:

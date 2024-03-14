@@ -3,8 +3,8 @@ Sells and coordinates transportation, accommodations, insurance, tours and activ
 # Project Details
 1. Project Demo URL:https://dreamydestinations3.z13.web.core.windows.net/
 2. Demo Video URL: https://youtu.be/5J5ccRZLM-A
-3. GitHub Repository URL: https://github.com/manojbachu/electro.git
-4. Industry : E-commerce
+3. GitHub Repository URL: https://github.com/Yeldandi-Kavya/Dreamy-Destinations
+4. Industry : Lifestyle-Travel
 
 # Roles and responsibilities
 1.Y.kavya (project management) :Manages the web development project.<br>

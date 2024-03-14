@@ -1,8 +1,8 @@
 # Dreamy-Destinations
 Sells and coordinates transportation, accommodations, insurance, tours and activities.
 # Project Details
-1. Project Demo URL: https://electrostorage2.z13.web.core.windows.net/
-2. Demo Video URL: https://youtu.be/8ErNjxboKGo
+1. Project Demo URL:https://dreamydestinations3.z13.web.core.windows.net/
+2. Demo Video URL: https://youtu.be/5J5ccRZLM-A
 3. GitHub Repository URL: https://github.com/manojbachu/electro.git
 4. Industry : E-commerce
 
@@ -27,7 +27,7 @@ Global events such as pandemics, natural disasters, political instability, and e
 
 # Project Description:
 A company that specializes in offering services associated with travel and tourism is known as a travel agency. Its main purpose is to help people—individuals, groups, and organizations—plan, reserve, and oversee travel excursions, vacations, or other activities. This is a detailed list of the services that a travel agency normally provides:
-Travel agents assist customers in organizing their travels in accordance with their needs, preferences, and financial constraints. This entails choosing travel locations, lodging, modes of transportation, events, and attractions.
+Travel agents assist customers in organizing their travels in accordance with their needs, preferences, and financial constraints. This entails choosing travel locations, lodging, modes of transportation, events, and attractions.where we specialize in providing unforgettable journeys across the diverse landscapes and rich cultural tapestry of India. Whether you're drawn to the bustling streets of Delhi, the tranquil backwaters of Kerala, the majestic forts of Rajasthan, or the serene beaches of Goa, we tailor our tours to suit your preferences and ensure an immersive experience. With expert guides, comfortable accommodations, and seamless logistics, let us be your gateway to discovering the enchanting beauty and vibrant heritage of India. Embark on a journey of a lifetime with us, where every moment is filled with wonder.
 
 # Core Azure Services:
 Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. Azure Storage Account:- Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management. Azure Backup Service:- Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.

@@ -7,11 +7,10 @@ Sells and coordinates transportation, accommodations, insurance, tours and activ
 4. Industry : Lifestyle-Travel
 
 # Roles and responsibilities
-1.Y.kavya (project management) :Manages the web development project.<br>
-2.B.Prashanth (Deployment) :Deployment and maintenance of project infrastructure.<br>
-3.K.Sindhuja  (Documentation) :Responsible for managing the documentation process.<br>
+1.Y.kavya (project management) :Manages the web development project.
+2.B.Prashanth (Deployment) :Deployment and maintenance of project infrastructure.
+3.K.Sindhuja  (Documentation) :Responsible for managing the documentation process.
 4.P.Rajani(Designed project)
-<br>
 
 # Azure services used:
 1. Azure blob storage
@@ -32,8 +31,8 @@ Travel agents assist customers in organizing their travels in accordance with th
 # Core Azure Services:
 Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. Azure Storage Account:- Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management. Azure Backup Service:- Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
 # Azure AI Service
-<b>Azure Chatbot :</b> The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
-# screenshots
+Azure Chatbot : The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
+# Screenshots
 # Storage Account
 ![storage account](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/4d1e2cdb-399c-4197-bd10-c888815bd3e6)
 # Backup Vault

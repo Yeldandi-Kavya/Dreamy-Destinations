@@ -40,6 +40,10 @@ Azure Chatbot : The Azure AI Language Chatbot is a cutting-edge conversational a
 # Storage Account
 ![storage account](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/4d1e2cdb-399c-4197-bd10-c888815bd3e6)
 
+# Uploading Blob Files
+![Screenshot 2024-04-05 213403](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/1bc66468-a5df-4540-a7e6-997c488751dc)
+
+
 # Backup Vault
 ![backup for blobs](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/0edee078-a3d6-4d94-b37a-762b08295560)
 
@@ -48,6 +52,12 @@ Azure Chatbot : The Azure AI Language Chatbot is a cutting-edge conversational a
 
 # Backup Policy
 ![backup policy](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/fcf4fe11-a5df-499a-87eb-2c7e9f03bba6)
+# Azure Language Service
+
+![Screenshot 2024-04-05 215612](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/3ee6f7bf-2047-477e-95de-1b674104436f)
+
+# Uploading Bot files to Custom Question answering
+![Screenshot 2024-04-05 214644](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/53ca7629-44bb-4803-a2aa-81c45e4be83e)
 
 # Azure Role Assignment
 ![azure role assignment](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/c315f21b-463a-46ec-af8a-23e1f81116c6)

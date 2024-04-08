@@ -38,35 +38,44 @@ Azure Chatbot : The Azure AI Language Chatbot is a cutting-edge conversational a
 # Screenshots
 
 # Storage Account
-![storage account](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/4d1e2cdb-399c-4197-bd10-c888815bd3e6)
+![storage account1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/a810a2ef-954a-4694-9384-b4f425346936)
+
 
 # Uploading Blob Files
-![Screenshot 2024-04-05 213403](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/1bc66468-a5df-4540-a7e6-997c488751dc)
+
+![uploading blobfiles1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/4d1a6963-1fc2-4793-8a43-e18c2559918f)
 
 
 # Backup Vault
-![backup for blobs](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/0edee078-a3d6-4d94-b37a-762b08295560)
+
+![backup vault1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/6d7f7f21-583e-428f-a887-d7ca809e8095)
 
 # Azure Bot
-![azure bot](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/0f69752a-0a6e-437c-8df5-2839101248fe)
+![azurebot1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/09d37c6e-f1e3-4272-a7ee-fedc8d7596ba)
+
 
 # Backup Policy
-![backup policy](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/fcf4fe11-a5df-499a-87eb-2c7e9f03bba6)
-# Azure Language Service
+![backup policy1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/88c8e4ae-d716-41c4-82cf-0c80b8adfb3d)
 
-![Screenshot 2024-04-05 215612](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/3ee6f7bf-2047-477e-95de-1b674104436f)
+# Azure Language Service
+![azure language services1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/5bcee80c-12e0-4ebf-b29c-e663fcac1105)
+
 
 # Uploading Bot files to Custom Question answering
-![Screenshot 2024-04-05 214644](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/53ca7629-44bb-4803-a2aa-81c45e4be83e)
+
+![uploading bot files to custom question answeing1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/ff30585d-4ad1-48e9-9dc5-7c05ef63390a)
 
 # Azure Role Assignment
-![azure role assignment](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/c315f21b-463a-46ec-af8a-23e1f81116c6)
+![azure role assignment1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/83d0e3c8-7493-41d5-951a-cabdb9ecb572)
+
 
 # Website View
-![website](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/d2e49c10-18c9-49a8-8685-5da32aff0735)
+![website view1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/ee9d5121-aa85-4caa-bd07-08bdf9de070d)
+
 
 # Bot Response
-![bot response](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/a1ee8bcc-86b6-46de-9dcf-26499f78cf04)
+
+![bot response1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/6522a9c7-fe9d-4eba-8a55-721740086ff2)
 
 # Resource Visualizer
 ![resource visualizer](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/4ffc8ca7-89a5-48ee-b0d9-b27df2e5b2ec)

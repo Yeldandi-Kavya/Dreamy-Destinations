@@ -78,7 +78,8 @@ Azure Chatbot : The Azure AI Language Chatbot is a cutting-edge conversational a
 ![bot response1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/6522a9c7-fe9d-4eba-8a55-721740086ff2)
 
 # Resource Visualizer
-![resource visualizer](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/4ffc8ca7-89a5-48ee-b0d9-b27df2e5b2ec)
+![resource visualizer](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/92479966-aa1c-4529-b566-c84c4df7fce1)
+
 
 
 

@@ -69,9 +69,23 @@ Azure Chatbot : The Azure AI Language Chatbot is a cutting-edge conversational a
 ![azure role assignment1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/83d0e3c8-7493-41d5-951a-cabdb9ecb572)
 
 
-# Website View
+# Home page
 ![website view1](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/ee9d5121-aa85-4caa-bd07-08bdf9de070d)
+# Gallery
+![gallery](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/225a2bdf-52ec-4ac4-bca7-f0abdd4c11a2)
+# Packages
 
+![packages](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/809189c3-06fc-4e8b-b8ba-f589a715fdcf)
+# Book
+![book](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/0b17da70-3185-4ced-9d87-2485222bd926)
+# Services
+![services](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/e187c5a8-9a6f-41d7-90bc-c63e9af9376d)
+# Contact
+![contact](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/1e201713-6bbd-451f-b28e-b63aaa7a9d97)
+
+# Login page
+
+![login](https://github.com/Yeldandi-Kavya/Dreamy-Destinations/assets/141647620/ec6ea0d1-3811-48b3-bdf5-77287b708bbf)
 
 # Bot Response
 

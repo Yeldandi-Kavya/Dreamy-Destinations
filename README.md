@@ -2,7 +2,7 @@
 Sells and coordinates transportation, accommodations, insurance, tours and activities.
 
 # Project Details
-1. Project Demo URL:https://dreamydestination.z13.web.core.windows.net/
+1. Project Demo URL:https://dreamydestinations5.z13.web.core.windows.net/#services-section
 2. Demo Video URL: https://youtu.be/5J5ccRZLM-A
 3. GitHub Repository URL: https://github.com/Yeldandi-Kavya/Dreamy-Destinations
 4. Industry : Lifestyle-Travel
